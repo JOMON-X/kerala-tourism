@@ -57,3 +57,8 @@ body{
   .mp{
     margin-top: 20px;
   }
+  .ttl{
+    font-family: cursive;
+    color: green;
+    font-weight: bolder;
+  }

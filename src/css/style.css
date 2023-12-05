@@ -73,3 +73,8 @@ body{
   .card{
     margin-top: 30px;
   }
+  .ttl{
+    font-family: cursive;
+    color: green;
+    font-weight: bolder;
+  }
